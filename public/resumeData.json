@@ -1,0 +1,142 @@
+{
+  "main": {
+    "name": "Moiz Khan",
+    "occupation": "React Developer",
+    "description": "I eat, sleep and breathe React",
+    "image": "profilepic.JPEG",
+    "bio": "Hi there! I am Moiz and recently graduate from Comsats university Islamabad and currently looking for a good intership. Where i can poslish my skills more .I have Good experience in React js,Firebase,next js,Html and Css.\nThanks",
+    "contactmessage": "Get in touch with me",
+    "email": "Kmuizz319@gmail.com",
+    "phone": "+923125426784",
+    "address": {
+      "street": "Muree Road",
+      "city": "Abbottabad",
+      "state": "Pakistan",
+      "zip": "22010"
+    },
+    "website": "",
+    "resumedownload": "https://drive.google.com/file/d/1vGnzieoc8R_bJ5E21wlSmm432hDKZu6R/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/muizz.khan.10/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/moiz-khan-jadoon-62620a210/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://instagram.com/muizz.khan.10?utm_medium=copy_link/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Muizz12?tab=repositories",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Comsats university islamabad abbottabad campus",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "July 2021",
+        "description": "Graduated with 2.97 CGPA"
+      }
+    ],
+    "work": [
+      {
+        "company": "PTCL",
+        "title": "Web Frontend Developer",
+        "years": "6 Weeks Intership",
+        "description": "Worked closely with the web development team to design customer oriented frontend design with swift and smooth user experience"
+      },
+      {
+        "company": "Tacticalgear.pk",
+        "title": "Digital Marketer",
+        "years": "03/2017 - 05/2020,",
+        "description": "Handled the entire digital marketing operation of this company for 3 years and exponentially increased the profits and customer volume"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "70%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "70%"
+      },
+      {
+        "name": "Web Development",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Snapchat Clone (React JS)",
+        "category": "",
+        "image": "snapchat.jpg",
+        "url": "https://snapchat-clone-365f0.web.app/"
+      },
+      {
+        "title": "Gmail Clone (React JS)",
+        "category": "",
+        "image": "gmail.jpg",
+        "url": "https://clone-afb9e.web.app/"
+      },
+      {
+        "title": "LinkedIn Clone (React JS)",
+        "category": "",
+        "image": "linkedin.jpg",
+        "url": "https://linkedinclone-ea8ae.web.app/"
+      },
+      {
+        "title": "Resume (React Js)",
+        "category": "",
+        "image": "resume-website.jpg"
+      },
+      {
+        "title": "DisneyPlus Clone(React JS)",
+        "category": "",
+        "image": "DisneyPlus.JPG",
+        "url": "Disneyplusclone-f7503.web.app/home"
+      },
+      {
+        "title": "AirBnb Clone(Next.js)",
+        "category": "",
+        "image": "AirBnb.JPG",
+        "url": "https://airbnb-clone-mauve-eight.vercel.app/"
+      },
+      {
+        "title": "Netflix Clone(React.js)",
+        "category": "",
+        "image": "Netflex.JPG",
+        "url": "https://netflex-clone-166e0.web.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Moiz is very good in Web development and has been very good in developing his semester project  . I would definitely recommend",
+        "user": "Osman Khalid"
+      },
+      {
+        "text": "Moiz develop very good and interactive interface for my project ",
+        "user": "Talha Muhammad Khan"
+      }
+    ]
+  }
+}
