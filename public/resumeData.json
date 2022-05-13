@@ -4,15 +4,14 @@
     "occupation": "React Developer",
     "description": "I eat, sleep and breathe React",
     "image": "profilepic.JPEG",
-    "bio": "Hi there! I am Moiz and recently graduate from Comsats university Islamabad and currently looking for a good intership. Where i can poslish my skills more .I have Good experience in React js,Firebase,next js,Html and Css.\nThanks",
+    "bio": "My name is Moiz Khan. I am an  web developer who's ready for new challenges. I have spent most of my career in web development  working with JavaScript , and now I am studying the front-end field. I love working with great people, inspiring others, and being inspired.\nMy main skills are: JavaScript, React.js, React native, TypeScript",
     "contactmessage": "Get in touch with me",
     "email": "Kmuizz319@gmail.com",
     "phone": "+923125426784",
     "address": {
-      "street": "Muree Road",
-      "city": "Abbottabad",
-      "state": "Pakistan",
-      "zip": "22010"
+      "street": "E11 256 f",
+      "city": "Islamabad",
+      "state": "Pakistan"
     },
     "website": "",
     "resumedownload": "https://drive.google.com/file/d/1vGnzieoc8R_bJ5E21wlSmm432hDKZu6R/view?usp=sharing",
@@ -51,6 +50,18 @@
     ],
     "work": [
       {
+        "company": "Doerz.tech",
+        "title": "software engineer",
+        "years": "5 Months (present)",
+        "description": "In this compnay i am Working with React js and react native and building interactive interface for the company's Projects"
+      },
+      {
+        "company": "Saw Developers",
+        "title": "Front-ed Developer",
+        "years": "3 Months",
+        "description": "I was the front-end Developer and i made interactive and flexible interface for there Project with React js"
+      },
+      {
         "company": "PTCL",
         "title": "Web Frontend Developer",
         "years": "6 Weeks Intership",
@@ -65,11 +76,19 @@
     ],
     "skills": [
       {
+        "name": "React Native",
+        "level": "70%"
+      },
+      {
         "name": "ReactJs",
         "level": "70%"
       },
       {
         "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "TypeScript",
         "level": "70%"
       },
       {
@@ -79,11 +98,27 @@
       {
         "name": "Web Development",
         "level": "80%"
+      },
+      {
+        "name": "Mobile App Development",
+        "level": "80%"
       }
     ]
   },
   "portfolio": {
     "projects": [
+      {
+        "title": "Parenti (React Native)",
+        "category": "",
+        "image": "Parenti.JPG",
+        "url": ""
+      },
+      {
+        "title": "Leeping Hurdels (React JS)",
+        "category": "",
+        "image": "Leepinghurdles.JPG",
+        "url": ""
+      },
       {
         "title": "Snapchat Clone (React JS)",
         "category": "",
